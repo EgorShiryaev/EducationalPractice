@@ -1,0 +1,4 @@
+result: 104
+
+vertex: 8
+vertexArray: [7, 19, 21, 22, 23, 55, 85, 87]

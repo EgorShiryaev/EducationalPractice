@@ -1,0 +1,16 @@
+name: task_8
+description: A sample command-line application.
+version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.15.0-178.0.dev <3.0.0'
+
+
+dependencies:
+#   path: ^1.8.0
+  image: ^3.0.8
+
+dev_dependencies:
+  lints: ^1.0.0
+  test: ^1.16.0

@@ -1,0 +1,4 @@
+result: 63
+
+vertex: 5
+vertexArray: [5, 10, 16, 18, 19]
